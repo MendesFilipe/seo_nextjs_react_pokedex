@@ -1,0 +1,25 @@
+{
+  "name": "seo_nextjs_react_pokedex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MendesFilipe/seo_nextjs_react_pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MendesFilipe/seo_nextjs_react_pokedex/issues"
+  },
+  "homepage": "https://github.com/MendesFilipe/seo_nextjs_react_pokedex#readme",
+  "dependencies": {
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
