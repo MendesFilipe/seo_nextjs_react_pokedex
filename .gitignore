@@ -1,4 +1,5 @@
 .vscode
+.next
 
 # dependencies
 /node_modules
