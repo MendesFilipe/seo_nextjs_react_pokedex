@@ -4,7 +4,7 @@
 
 Uma pokédex feita com React com NextJS para ter uma performace melhor e utilizar SEO com React.
 
-Link do projeto:
+Link do projeto: https://seo-nextjs-react-pokedex.vercel.app/
 
 <p align="center">
   <img alt="Logo do projeto" src="./docs/logo.png" />
@@ -14,11 +14,11 @@ Link do projeto:
 
 - Para começar, você pode fazer o download do projeto. Ou clonar o projeto com o seguinte comando:
 
-`git clone https://github.com/MendesFilipe/weather_app.git`
+`git clone https://github.com/MendesFilipe/seo_nextjs_react_pokedex.git`
 
 - Agora entre na pasta criada pelo git com:
 
-`cd weather_app`
+`cd seo_nextjs_react_pokedex`
 
 - Depois, instale o projeto com o seguinte comando:
 
